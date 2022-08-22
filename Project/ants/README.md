@@ -2,7 +2,7 @@
 ## Set Up Environment
 ### Directory to projects from the root page
 ```js
-cd Project
+cd Project/ants
 ```
 ### Set up Python Environment
 ```js
