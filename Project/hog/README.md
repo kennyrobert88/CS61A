@@ -2,7 +2,7 @@
 ## Set Up Environment
 ### Directory to projects from the root page
 ```js
-cd Project
+cd Project/hog
 ```
 ### Set up Python Environment
 ```js
